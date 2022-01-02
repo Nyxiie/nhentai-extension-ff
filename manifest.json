@@ -1,0 +1,21 @@
+{
+  "name": "N-Hentai Extension",
+  "description": "Redirect your 6 digit code to nhentai",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["main.js"]
+  },
+  "permissions": ["contextMenus","tabs"],
+  "icons": {
+    "16": "/images/logo.png",
+    "32": "/images/logo.png",
+    "48": "/images/logo.png",
+    "128": "/images/logo.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "test@gmail.com"
+    }
+  }
+}
