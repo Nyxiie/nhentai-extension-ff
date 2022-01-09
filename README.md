@@ -28,7 +28,7 @@
 Its easy -> Download -> Use -> Profit?
 
 ### Prerequisites
-FIREFOX DEVELOPER OR FIREFOX ESR
+FIREFOX bases Browser
 
 Download the xx.xpi file
 
